@@ -1,1 +1,1 @@
-**SaltShore** is an experimental roguelike text adventure.
+**SaltShore** is an experimental roguelike text adventure, coded in the dumbest way possible. It's basically a project for drafting some of the ideas that will (hopefully) go into **[Hornvale](https://github.com/hornvale/)**.
